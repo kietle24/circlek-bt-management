@@ -33,7 +33,7 @@
 ### Bước 1 — Clone dự án
 
 ```bash
-git clone <url-repository>
+gh repo clone kietle24/circlek-bt-management
 cd circlek-bt-management
 ```
 
